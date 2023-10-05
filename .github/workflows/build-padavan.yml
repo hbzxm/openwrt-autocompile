@@ -9,7 +9,6 @@ on:
         required: true
         type: choice
         options:
-        - 'K2P_nano'
         - 'JD-LUBAN'
 
 env:
